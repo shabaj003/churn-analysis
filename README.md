@@ -122,6 +122,3 @@ Use `churn_analysis.ipynb` for exploratory analysis and to investigate the datas
 - Add a customer retention recommendation workflow
 - Deploy the Streamlit app to Streamlit Community Cloud or another hosting platform
 
-## License
-
-Add a license before distributing this project publicly. An MIT License is a common choice for open-source projects.
